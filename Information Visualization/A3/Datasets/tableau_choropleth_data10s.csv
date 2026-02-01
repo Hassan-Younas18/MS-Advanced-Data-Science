@@ -1,0 +1,102 @@
+ioc,total_points,player_count,average_rank,average_height,top_100_players,best_player_name,best_player_rank
+ESP,24405.0,96,869.0,182.5,10.0,Rafael Nadal,1
+FRA,19907.0,136,859.0,185.4,12.0,Gael Monfils,10
+USA,16394.0,175,952.0,185.3,8.0,John Isner,19
+ITA,16074.0,139,935.0,184.1,8.0,Matteo Berrettini,8
+SRB,15316.0,30,854.0,185.2,5.0,Novak Djokovic,2
+RUS,12030.0,66,911.0,186.0,3.0,Daniil Medvedev,5
+ARG,11099.0,88,889.0,181.9,5.0,Diego Schwartzman,14
+GER,11073.0,78,876.0,187.9,4.0,Alexander Zverev,7
+AUS,10383.0,59,784.0,185.4,6.0,Alex De Minaur,18
+SUI,9802.0,31,1010.0,183.8,2.0,Roger Federer,3
+JPN,7427.0,71,916.0,175.4,3.0,Kei Nishikori,13
+AUT,7247.0,25,930.0,186.9,1.0,Dominic Thiem,4
+CAN,6827.0,27,930.0,186.1,3.0,Denis Shapovalov,15
+GRE,5401.0,11,1280.0,189.4,1.0,Stefanos Tsitsipas,6
+GBR,5032.0,64,1041.0,185.0,3.0,Daniel Evans,42
+BEL,3920.0,28,875.0,181.7,1.0,David Goffin,11
+CRO,3682.0,17,822.0,191.4,3.0,Borna Coric,28
+SVK,2665.0,16,777.0,185.2,0.0,Andrej Martin,107
+BRA,2591.0,37,792.0,183.0,1.0,Thiago Monteiro,89
+CHI,2470.0,14,892.0,185.7,2.0,Cristian Garin,33
+KAZ,2454.0,14,619.0,187.0,2.0,Alexander Bublik,56
+CZE,2227.0,44,931.0,185.8,0.0,Jiri Vesely,105
+POL,2198.0,23,1013.0,185.9,1.0,Hubert Hurkacz,37
+POR,2111.0,23,1038.0,181.0,1.0,Joao Sousa,60
+BUL,1992.0,14,1027.0,185.2,1.0,Grigor Dimitrov,20
+NED,1831.0,41,1003.0,186.3,0.0,Robin Haase,162
+KOR,1770.0,29,1090.0,178.8,1.0,Soon Woo Kwon,88
+IND,1706.0,43,1169.0,181.8,0.0,Prajnesh Gunneswaran,124
+SWE,1587.0,30,1066.0,186.8,1.0,Mikael Ymer,74
+GEO,1509.0,5,867.0,186.0,1.0,Nikoloz Basilashvili,26
+CHN,1496.0,34,1048.0,183.8,0.0,Zhizhen Zhang,138
+HUN,1477.0,14,906.0,184.2,1.0,Marton Fucsovics,70
+SLO,1461.0,8,760.0,183.0,1.0,Aljaz Bedene,58
+RSA,1234.0,12,1203.0,184.3,2.0,Kevin Anderson,91
+BLR,1187.0,14,1059.0,189.1,1.0,Egor Gerasimov,98
+URU,1163.0,3,484.0,183.0,1.0,Pablo Cuevas,45
+TPE,1104.0,17,834.0,179.8,0.0,Jason Jung,127
+MDA,1085.0,2,432.0,181.5,1.0,Radu Albot,46
+UKR,1082.0,29,996.0,184.3,0.0,Sergiy Stakhovsky,150
+NOR,1075.0,3,647.0,182.7,1.0,Casper Ruud,54
+BIH,953.0,8,699.0,186.0,1.0,Damir Dzumhur,93
+LTU,938.0,4,674.0,182.0,1.0,Ricardas Berankis,66
+COL,847.0,20,1003.0,183.3,0.0,Daniel Elahi Galan,191
+BOL,824.0,8,1087.0,184.8,1.0,Hugo Dellien,75
+ECU,789.0,9,888.0,181.0,0.0,Emilio Gomez,146
+ROU,775.0,37,1174.0,184.7,0.0,Marius Copil,153
+PER,678.0,9,859.0,153.0,0.0,Juan Pablo Varillas,143
+ISR,668.0,20,1225.0,183.4,0.0,Dudi Sela,142
+FIN,574.0,8,1066.0,187.5,0.0,Emil Ruusuvuori,123
+UZB,572.0,13,1099.0,181.6,0.0,Denis Istomin,177
+TUN,484.0,9,894.0,185.8,0.0,Malek Jaziri,201
+DOM,450.0,7,652.0,183.4,0.0,Roberto Cid,258
+EGY,436.0,8,1199.0,177.7,0.0,Mohamed Safwat,175
+TUR,431.0,14,1054.0,182.6,0.0,Cem Ilkel,283
+MEX,364.0,16,1243.0,182.2,0.0,Ernesto Escobedo,224
+CYP,346.0,3,808.0,184.0,0.0,Marcos Baghdatis,179
+DEN,320.0,4,961.0,188.0,0.0,Mikael Torpegaard,168
+MAR,319.0,7,1118.0,189.2,0.0,Elliot Benchetrit,217
+LAT,319.0,6,979.0,188.5,0.0,Ernests Gulbis,226
+BAR,305.0,1,166.0,188.0,0.0,Darian King,166
+JAM,251.0,3,1021.0,193.5,0.0,Dustin Brown,203
+VEN,216.0,4,924.0,188.3,0.0,Goncalo Oliveira,272
+ZIM,141.0,6,1100.0,188.0,0.0,Benjamin Lock,485
+EST,140.0,8,1112.0,187.8,0.0,Jurgen Zopp,444
+MON,140.0,3,797.0,187.7,0.0,Hugo Nys,421
+ALG,139.0,4,1020.0,190.3,0.0,Rayane Roumane,364
+LBN,138.0,2,650.0,183.0,0.0,Benjamin Hassan,312
+ESA,109.0,2,967.0,193.0,0.0,Marcelo Arevalo,353
+IRL,87.0,3,730.0,183.0,0.0,Simon Carr,521
+THA,77.0,14,1386.0,180.6,0.0,Wishaya Trongcharoenchaikul,625
+NZL,74.0,8,1183.0,185.8,0.0,Jose Rubin Statham,689
+NMI,43.0,1,571.0,188.0,0.0,Colin Sinclair,571
+VIE,31.0,1,655.0,175.0,0.0,Nam Hoang Ly,655
+HKG,24.0,3,1169.0,178.0,0.0,Hong Kit Jack Wong,882
+BDI,24.0,1,732.0,191.0,0.0,Guy Orly Iradukunda,732
+LIB,22.0,1,750.0,188.0,0.0,Hady Habib,750
+MNE,21.0,3,1397.0,173.0,0.0,Ljubomir Celebic,792
+BAH,20.0,3,1268.0,183.0,0.0,Justin Roberts,842
+MKD,17.0,4,1339.0,,0.0,Gorazd Srbljak,1068
+IRI,11.0,2,1323.0,183.0,0.0,Hamid Reza Nadaf,982
+COD,11.0,1,954.0,,0.0,William Bushamuka,954
+GUA,9.0,2,1322.0,189.5,0.0,Wilfredo Gonzalez,1088
+CUW,6.0,1,1151.0,175.0,0.0,Michael John Every,1151
+PHI,5.0,4,1638.0,175.0,0.0,Jeson Patrombon,1419
+ANT,5.0,1,1231.0,193.0,0.0,Herbert Jody Maginley,1231
+NGR,5.0,3,1616.0,,0.0,Joseph Imeh Ubon,1367
+KEN,4.0,2,1574.0,,0.0,Sheil Kotecha,1393
+CRC,4.0,1,1254.0,188.0,0.0,Jesse Flores,1254
+INA,3.0,1,1357.0,,0.0,David Agung Susanto,1357
+TOG,3.0,1,1381.0,183.0,0.0,Thomas Yaka Kofi Setodji,1381
+SMR,3.0,1,1367.0,,0.0,Marco De Rossi,1367
+NAM,3.0,1,1330.0,,0.0,Tuki Jacobs,1330
+MAS,2.0,1,1461.0,,0.0,Christian Didier Chin,1461
+SGP,2.0,2,1786.0,,0.0,Shaheed Alam,1755
+PAK,2.0,1,1438.0,,0.0,Ahmed Chaudary,1438
+GHA,2.0,2,1668.0,198.0,0.0,Japheth Anwasiba Bagerbaseh,1581
+JOR,2.0,1,1546.0,,0.0,Mousa Alkotop,1546
+SYR,2.0,1,1419.0,,0.0,Issam Al Tawil,1419
+CIV,1.0,1,1664.0,183.0,0.0,Eliakim Coulibaly,1664
+BEN,1.0,1,1664.0,,0.0,Alexis Klegou,1664
+MAD,1.0,1,1581.0,,0.0,Jean Jacques Rakotohasy,1581

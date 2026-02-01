@@ -1,0 +1,100 @@
+ioc,total_points,player_count,average_rank,average_height,top_100_players,best_player_name,best_player_rank
+USA,26777,206,1031.0,183.3,10.0,Taylor Fritz,10
+FRA,22635,145,858.0,185.2,12.0,Ugo Humbert,20
+ITA,22059,167,1009.0,184.4,5.0,Jannik Sinner,4
+RUS,20095,66,1082.0,186.7,6.0,Daniil Medvedev,3
+ESP,18865,91,963.0,182.2,7.0,Carlos Alcaraz,2
+SRB,15479,29,1033.0,185.6,4.0,Novak Djokovic,1
+ARG,14755,87,888.0,181.1,6.0,Francisco Cerundolo,21
+AUS,13906,77,916.0,183.6,8.0,Alex De Minaur,12
+GER,12143,94,1024.0,187.2,6.0,Alexander Zverev,7
+GBR,9114,77,986.0,185.1,4.0,Cameron Norrie,18
+JPN,5669,68,937.0,175.8,3.0,Yoshihito Nishioka,47
+CZE,5171,52,1038.0,185.3,2.0,Jiri Lehecka,31
+GRE,4408,12,1244.0,192.3,1.0,Stefanos Tsitsipas,6
+NED,4321,45,1044.0,186.9,2.0,Tallon Griekspoor,23
+POL,4143,28,1156.0,186.8,1.0,Hubert Hurkacz,9
+CHI,4066,16,950.0,181.2,3.0,Nicolas Jarry,19
+DEN,4010,9,960.0,152.4,1.0,Holger Rune,8
+AUT,3930,27,983.0,185.4,2.0,Sebastian Ofner,43
+KAZ,3596,13,803.0,189.2,2.0,Alexander Bublik,32
+BRA,3589,46,988.0,181.4,1.0,Thiago Seyboth Wild,79
+CAN,3574,30,1074.0,184.2,1.0,Felix Auger Aliassime,29
+SUI,3510,43,1088.0,185.6,2.0,Stan Wawrinka,49
+BUL,3382,22,1058.0,185.3,1.0,Grigor Dimitrov,14
+CRO,3223,19,908.0,189.8,2.0,Borna Coric,37
+CHN,3010,46,1161.0,183.6,1.0,Zhizhen Zhang,58
+BEL,2976,21,786.0,184.2,0.0,David Goffin,111
+NOR,2931,4,967.0,184.8,1.0,Casper Ruud,11
+HUN,2663,13,945.0,183.6,2.0,Marton Fucsovics,59
+POR,1995,23,1007.0,181.4,1.0,Nuno Borges,66
+SWE,1521,22,1113.0,185.1,0.0,Mikael Ymer,136
+SVK,1520,17,995.0,188.3,0.0,Alex Molcan,119
+UKR,1422,18,822.0,177.3,0.0,Vitaliy Sachko,169
+FIN,1203,8,990.0,188.4,1.0,Emil Ruusuvuori,69
+ROU,1181,29,1076.0,184.0,0.0,Nicholas David Ionel,267
+TPE,1159,15,1039.0,180.5,0.0,Tung Lin Wu,204
+KOR,1147,24,1032.0,179.9,0.0,Soon Woo Kwon,196
+IND,1099,42,1290.0,182.5,0.0,Sumit Nagal,138
+PER,1065,13,1051.0,163.1,1.0,Juan Pablo Varillas,83
+COL,978,15,1119.0,182.6,1.0,Daniel Elahi Galan,93
+BOL,857,4,624.0,185.8,0.0,Hugo Dellien,112
+BIH,853,8,922.0,186.0,0.0,Damir Dzumhur,154
+TUR,801,18,1140.0,183.1,0.0,Cem Ilkel,255
+BLR,713,11,1043.0,190.1,0.0,Ilya Ivashka,182
+RSA,681,8,874.0,188.4,0.0,Lloyd Harris,140
+TUN,635,7,914.0,186.0,0.0,Aziz Dougaz,234
+MDA,605,3,477.0,183.7,0.0,Radu Albot,131
+LTU,462,5,1010.0,181.3,0.0,Ricardas Berankis,238
+LBN,420,2,832.0,183.0,0.0,Benjamin Hassan,151
+EST,413,6,997.0,188.5,0.0,Mark Lajal,206
+ECU,412,6,970.0,178.0,0.0,Emilio Gomez,294
+ISR,397,19,1231.0,181.3,0.0,Yshai Oliel,421
+JOR,316,3,1174.0,180.0,0.0,Abedallah Shelbayh,195
+MON,301,3,913.0,189.0,0.0,Valentin Vacherot,280
+VEN,291,3,1018.0,188.3,0.0,Goncalo Oliveira,224
+NZL,281,12,1115.0,186.5,0.0,Jose Rubin Statham,453
+HKG,242,3,1214.0,,0.0,Chak Lam Coleman Wong,253
+GEO,238,6,868.0,185.4,0.0,Saba Purtseladze,456
+DOM,233,4,858.0,187.0,0.0,Nick Hardt,374
+EGY,221,9,1294.0,180.0,0.0,Mohamed Safwat,358
+THA,216,17,1224.0,181.1,0.0,Maximus Jones,648
+SLO,204,12,1295.0,196.3,0.0,Blaz Rola,451
+MAR,203,9,1069.0,189.2,0.0,Elliot Benchetrit,492
+MEX,203,13,1392.0,179.6,0.0,Ernesto Escobedo,405
+UZB,184,6,1281.0,184.8,0.0,Khumoun Sultanov,367
+LIB,178,1,301.0,188.0,0.0,Hady Habib,301
+LAT,175,4,1009.0,190.5,0.0,Robert Strombachs,346
+MKD,172,3,944.0,196.0,0.0,Kalin Ivanovski,326
+ZIM,141,2,1102.0,185.5,0.0,Benjamin Lock,355
+LUX,134,4,1087.0,190.3,0.0,Alex Knaff,503
+URU,119,7,1097.0,182.4,0.0,Franco Roncadelli,619
+JAM,119,1,399.0,191.0,0.0,Blaise Bicknell,399
+NMI,119,1,400.0,188.0,0.0,Colin Sinclair,400
+INA,118,8,1596.0,176.5,0.0,Fitriadi M Rifqi,569
+CIV,94,1,459.0,183.0,0.0,Eliakim Coulibaly,459
+PAR,91,2,953.0,183.0,0.0,Adolfo Daniel Vallejo,471
+SYR,88,1,472.0,183.0,0.0,Hazem Naw,472
+BAR,77,2,1094.0,188.0,0.0,Darian King,515
+VIE,68,2,1242.0,175.0,0.0,Nam Hoang Ly,562
+ALG,29,2,1038.0,188.0,0.0,Samir Hamza Reguig,835
+BAH,29,2,1233.0,183.0,0.0,Justin Roberts,792
+MAS,26,2,1372.0,175.0,0.0,Mitsuki Wei Kang Leong,823
+TOG,25,2,1337.0,183.0,0.0,Thomas Yaka Kofi Setodji,824
+SEN,25,1,818.0,,0.0,Seydina Andre,818
+CYP,24,5,1377.0,184.0,0.0,Stylianos Christodoulou,1110
+IRL,22,4,1386.0,188.5,0.0,Osgar Ohoisin,1005
+MNE,18,2,1220.0,173.0,0.0,Rrezart Cungu,938
+CRC,18,1,903.0,188.0,0.0,Jesse Flores,903
+BDI,14,1,961.0,191.0,0.0,Guy Orly Iradukunda,961
+IRI,10,4,1669.0,,0.0,Sina Moghimi,1153
+NGR,6,1,1208.0,183.0,0.0,Christopher Bulus,1208
+ANT,5,1,1289.0,193.0,0.0,Herbert Jody Maginley,1289
+GUD,5,1,1240.0,,0.0,Jean Christian Morandais,1240
+PAK,3,2,1632.0,,0.0,Huzaifa Abdul Rehman,1591
+CHL,2,1,1538.0,,0.0,Hans Christian Bustiman Gonzalez,1538
+MLT,2,2,1821.0,,0.0,Matthew Asciak,1674
+PHI,2,1,1512.0,,0.0,Alberto Lim,1512
+GHA,1,1,1752.0,198.0,0.0,Abraham Asaba,1752
+SMR,1,1,2018.0,,0.0,Marco De Rossi,2018
+QAT,1,1,1992.0,,0.0,Mubarak Shannan Zayid,1992

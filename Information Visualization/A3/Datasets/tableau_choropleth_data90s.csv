@@ -1,0 +1,88 @@
+ioc,total_points,player_count,average_rank,average_height,top_100_players,best_player_name,best_player_rank
+USA,22852.0,135,792.0,184.4,12.0,Andre Agassi,1
+ESP,18301.0,112,649.0,180.6,12.0,Albert Costa,18
+FRA,13989.0,96,678.0,183.2,8.0,Cedric Pioline,13
+GER,12631.0,116,819.0,185.0,5.0,Nicolas Kiefer,6
+AUS,10447.0,77,703.0,183.7,6.0,Patrick Rafter,16
+SWE,10204.0,46,633.0,185.4,8.0,Thomas Enqvist,4
+ARG,9827.0,76,601.0,181.4,5.0,Mariano Zabaleta,28
+CZE,6949.0,48,581.0,186.3,3.0,Jiri Novak,40
+ITA,6372.0,88,771.0,182.4,3.0,Andrea Gaudenzi,84
+RUS,6291.0,27,707.0,183.8,2.0,Yevgeny Kafelnikov,2
+NED,6109.0,25,578.0,188.1,4.0,Richard Krajicek,10
+BRA,5912.0,39,719.0,185.0,2.0,Gustavo Kuerten,5
+GBR,5117.0,38,819.0,182.8,2.0,Tim Henman,12
+SVK,4264.0,24,689.0,184.3,2.0,Karol Kucera,17
+AUT,3530.0,41,718.0,182.5,2.0,Stefan Koubek,46
+SUI,3410.0,21,708.0,187.1,3.0,Marc Rosset,45
+MAR,3369.0,8,511.0,183.2,3.0,Karim Alami,31
+CHI,2994.0,16,833.0,181.0,2.0,Marcelo Rios,9
+ECU,2459.0,5,750.0,183.0,1.0,Nicolas Lapentti,8
+RSA,2365.0,36,750.0,184.1,1.0,Wayne Ferreira,53
+ROU,2277.0,26,874.0,188.0,2.0,Andrei Pavel,41
+CRO,1908.0,18,722.0,191.2,2.0,Goran Ivanisevic,62
+BEL,1826.0,23,743.0,181.2,0.0,Christophe Rochus,121
+ISR,1770.0,20,584.0,183.5,0.0,Harel Levy,183
+JPN,1433.0,41,913.0,175.1,0.0,Gouichi Motomura,147
+CAN,1335.0,18,932.0,188.5,1.0,Daniel Nestor,86
+ZIM,1274.0,3,135.0,174.3,1.0,Byron Black,65
+UKR,1248.0,10,935.0,186.5,1.0,Andrei Medvedev,30
+BLR,1107.0,9,753.0,188.0,1.0,Max Mirnyi,74
+FIN,930.0,13,704.0,181.6,0.0,Tuomas Ketola,164
+NOR,927.0,3,285.0,189.0,1.0,Christian Ruud,67
+IND,830.0,28,925.0,182.8,0.0,Leander Paes,142
+ARM,796.0,1,59.0,180.0,1.0,Sargis Sargsian,59
+DEN,742.0,10,846.0,187.0,1.0,Kenneth Carlsen,85
+CRC,661.0,1,70.0,175.0,1.0,Juan Antonio Marin,70
+THA,631.0,6,830.0,177.0,1.0,Paradorn Srichaphan,99
+URU,610.0,8,846.0,176.0,0.0,Marcelo Filippini,106
+BUL,595.0,11,907.0,186.5,0.0,Orlin Stanoytchev,114
+GRE,586.0,10,757.0,183.0,0.0,Solon Peppas,212
+PHI,582.0,2,247.0,174.0,1.0,Cecil Mamiit,93
+HUN,574.0,18,873.0,185.3,0.0,Attila Savolt,150
+MEX,484.0,26,1009.0,177.8,0.0,Alejandro Hernandez,241
+UZB,480.0,7,838.0,193.0,0.0,Oleg Ogorodov,132
+POR,479.0,12,823.0,181.0,0.0,Joao Cunha Silva,294
+SRB,469.0,5,538.0,190.0,0.0,Dejan Petrovic,205
+KOR,469.0,19,964.0,177.5,0.0,Hyung Taik Lee,191
+VEN,469.0,7,728.0,176.5,0.0,Jimy Szymanski,170
+NZL,408.0,6,693.0,186.7,0.0,Brett Steven,206
+PAR,376.0,3,580.0,185.0,0.0,Ramon Delgado,149
+PER,352.0,6,642.0,176.2,0.0,Luis Horna,180
+MON,347.0,4,883.0,173.0,0.0,Jean Rene Lisnard,138
+SLO,337.0,16,933.0,184.0,0.0,Iztok Bozic,389
+POL,240.0,15,985.0,183.0,0.0,Bartlomiej Dabrowski,344
+BAH,193.0,3,806.0,189.0,0.0,Mark Knowles,223
+IRL,153.0,7,902.0,188.0,0.0,Peter Clarke,373
+GEO,128.0,2,800.0,188.0,0.0,Irakli Labadze,302
+PAK,128.0,2,668.0,183.0,0.0,Aisam Ul Haq Qureshi,309
+EGY,109.0,6,920.0,,0.0,Amro Ghoneim,510
+INA,100.0,12,1009.0,175.5,0.0,Dede Suhendar Dinata,608
+KAZ,90.0,2,806.0,190.5,0.0,Yuri Schukin,382
+CUB,71.0,3,839.0,,0.0,Lazaro Navarro Batles,471
+ALG,57.0,1,481.0,,0.0,Slimane Saoudi,481
+COL,53.0,2,638.0,185.0,0.0,Miguel Tobon,624
+TUR,51.0,6,1038.0,,0.0,Erhan Oral,656
+AND,48.0,2,909.0,,0.0,Joan Jimenez Guerra,520
+CIV,48.0,2,662.0,190.0,0.0,Valentin Sanon,608
+AZE,40.0,1,557.0,,0.0,Emin Agaev,557
+MRI,38.0,2,765.0,,0.0,Kamil Patel,618
+LIB,36.0,1,577.0,,0.0,Jicham Zaatini,577
+CHN,35.0,7,1176.0,,0.0,Ben Qiang Zhu,643
+TPE,29.0,4,1008.0,180.0,0.0,Wei Jen Cheng,815
+HAI,26.0,1,642.0,,0.0,Bertrand Madsen,642
+YUG,21.0,2,891.0,190.0,0.0,Jovan Savic,756
+MKD,16.0,5,1195.0,190.0,0.0,Aleksandar Kitinov,880
+LTU,12.0,2,1081.0,,0.0,Daniel Lencina Ribes,864
+MDA,12.0,2,1056.0,,0.0,Evghenii Plugariov,881
+GHA,12.0,2,996.0,,0.0,Courage Anyidoho,918
+BIH,11.0,2,1064.0,,0.0,Bojan Vujic,897
+LUX,11.0,1,843.0,188.0,0.0,Mike Scheidweiler,843
+TUN,5.0,2,1216.0,,0.0,Walid Jallali,1133
+BOT,3.0,1,1155.0,,0.0,Petrus Molefe,1155
+SEN,2.0,1,1231.0,185.0,0.0,Yahiya Doumbia,1231
+HKG,2.0,2,1298.0,,0.0,Melvin Tong,1298
+BOL,1.0,1,1298.0,,0.0,Jose Antelo,1298
+EST,1.0,1,1298.0,,0.0,Mait Kunnap,1298
+PAN,1.0,1,1298.0,,0.0,Alberto Gonzalez,1298
+TOG,1.0,1,1298.0,,0.0,Kossi Loglo,1298

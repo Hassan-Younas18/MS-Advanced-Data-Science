@@ -1,0 +1,55 @@
+ioc,total_points,player_count,average_rank,average_height,top_100_players,best_player_name,best_player_rank
+ARG,0.0,26,372.0,177.8,3.0,Guillermo Vilas,6
+AUS,0.0,83,371.0,183.0,11.0,John Alexander,20
+AUT,0.0,11,378.0,180.6,2.0,Peter Feigl,47
+BEL,0.0,5,405.0,185.0,0.0,Bernard Boileau,189
+BER,0.0,1,546.0,188.0,0.0,Steven Alger,546
+BOL,0.0,3,250.0,170.0,0.0,Ramiro Benavides,149
+BRA,0.0,30,399.0,183.7,2.0,Carlos Kirmayr,57
+BUR,0.0,1,579.0,,0.0,Amani Jumatano,579
+CAN,0.0,10,486.0,179.2,0.0,Rejean Genois,186
+CHI,0.0,13,303.0,178.2,2.0,Hans Gildemeister,14
+CHN,0.0,3,634.0,,0.0,Chang Hong Ni,579
+COL,0.0,13,425.0,,1.0,Ivan Molina,100
+CRO,0.0,3,379.0,175.0,1.0,Zeljko Franulovic,97
+CZE,0.0,16,290.0,180.6,5.0,Tomas Smid,27
+DEN,0.0,2,478.0,,0.0,Lars Elvstrom,293
+ECU,0.0,4,296.0,188.7,1.0,Andres Gomez,61
+EGY,0.0,3,494.0,183.0,0.0,Ismail El Shafei,158
+ESP,0.0,29,398.0,175.9,4.0,Jose Higueras,9
+FIN,0.0,3,486.0,178.0,0.0,Leo Palin,135
+FRA,0.0,26,256.0,180.4,6.0,Yannick Noah,26
+GBR,0.0,27,408.0,185.0,2.0,Buster C Mottram,32
+GER,0.0,22,358.0,179.1,2.0,Ulrich Pinner,23
+GRE,0.0,3,561.0,178.0,0.0,Nicolas Kelaidis,511
+HUN,0.0,4,448.0,183.0,1.0,Balazs Taroczy,42
+IND,0.0,11,392.0,182.0,1.0,Vijay Amritraj,34
+IRI,0.0,1,300.0,,0.0,Ali Madani,300
+IRL,0.0,1,234.0,,0.0,Sean Sorensen,234
+ISR,0.0,6,541.0,181.5,0.0,Shlomo Glickstein,204
+ITA,0.0,35,434.0,179.5,3.0,Adriano Panatta,28
+JPN,0.0,26,525.0,172.5,0.0,Tsuyoshi Fukui,252
+KOR,0.0,1,662.0,180.0,0.0,Bong Soo Kim,662
+MEX,0.0,7,377.0,181.5,1.0,Raul Ramirez,40
+MON,0.0,2,604.0,,0.0,Bernard Balleret,546
+NED,0.0,12,446.0,189.8,1.0,Tom Okker,56
+NGR,0.0,4,512.0,183.0,0.0,David Imonitie,347
+NZL,0.0,12,390.0,181.8,1.0,Chris Lewis,65
+PAK,0.0,1,662.0,,0.0,Saeed Meer,662
+PAR,0.0,3,250.0,193.0,2.0,Victor Pecci,11
+PER,0.0,1,175.0,,0.0,Fernando Maynetto,175
+PHI,0.0,1,420.0,,0.0,Beejong Sisson,420
+POL,0.0,2,218.0,183.0,1.0,Wojtek Fibak,15
+PUR,0.0,1,662.0,,0.0,Pedro Gonzalez,662
+RHO,0.0,1,546.0,,0.0,Tony Fawcett,546
+ROU,0.0,6,420.0,182.7,1.0,Ilie Nastase,49
+RSA,0.0,27,374.0,184.5,2.0,Bernie Mitton,58
+SRB,0.0,2,344.0,,0.0,Nicola Spear,312
+SRI,0.0,2,478.0,,0.0,Arjun Fernando,293
+SUI,0.0,7,402.0,178.7,1.0,Heinz Gunthardt,51
+SWE,0.0,29,384.0,183.9,2.0,Bjorn Borg,1
+URU,0.0,3,342.0,181.5,0.0,Jose Luis Damiani,175
+USA,0.0,266,378.0,183.3,41.0,Jimmy Connors,2
+VEN,0.0,1,311.0,,0.0,Jorge Andrew,311
+YUG,0.0,1,662.0,,0.0,John Botica,662
+ZIM,0.0,1,197.0,178.0,0.0,Haroon Ismail,197
